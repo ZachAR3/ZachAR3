@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-I am an 19 year old programmer living in India to pursue further education. I have been interested in electronics every since I was a young boy and quickly took up Python classes around the age of 12. This was a stepping stone for me learning game development in GameMakerStudio 1 which I then moved into Unity and now Godot. I have a solid grasp on Python and C# and I know a bit about C from using it with Arduinos.
+I am an 20 year old programmer living in Germany to pursue further educationn in software development. I have been interested in electronics every since I was a young boy and quickly took up Python classes around the age of 12. This was a stepping stone for me learning game development in GameMakerStudio 1 which I then moved into Unity and now Godot. I have a solid grasp on Python and C# along with intermediate experience in C/C++.
 
 <h1>Support me:</h1>
 
