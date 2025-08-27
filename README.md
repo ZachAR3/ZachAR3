@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-I am an 20 year old programmer living in Germany to pursue further educationn in software development. I have been interested in electronics for most of my life and coming to fruition upon taking a Python class. This was a stepping stone for me, as soon after learning I learned GameMaker and Godot. I have a solid grasp on Python and C# along with beginner experience in C/C++.
+I am a 21 year old programmer living in Germany to pursue further education in software development through JetBrains and Constructor University. I started with GameMaker when I was quite young before learning Python and a maker class and then furthering my understanding through a university course along with a foundational grasp of C/C++. My favourite languages are C# and Kotlin and my tools of choice are the JetBrains suite and Godot for game / software development currently. 
 
 <h1>Languages and Tools</h1>
 
