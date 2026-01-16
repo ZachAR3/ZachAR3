@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-I am a 21 year old programmer living in Germany to pursue further education in software development through JetBrains and Constructor University. I started with GameMaker when I was quite young before learning Python and a maker class and then furthering my understanding through a university course along with a foundational grasp of C/C++. My favourite languages are C# and Kotlin and my tools of choice are the JetBrains suite and Godot for game / software development currently. 
+I am a 21 year old programmer living in Germany to pursue further education in software development through JetBrains and Constructor University. I started with GameMaker when I was quite young before learning Python and a maker class and then furthering my understanding through a university course along with a foundational grasp of C/C++. My favourite languages are C# and Kotlin and my tools of choice are the JetBrains suite and Godot for game / software development currently. I have experience in Blender for modeling, rendering, rigging and animating + some basic physical art knowledge.
 
 <h1>Languages and Tools</h1>
 
